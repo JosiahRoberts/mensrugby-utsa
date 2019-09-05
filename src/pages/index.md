@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: UTSA Rugby
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: A Tradition of Excellence
+subheading: UTSA Rugby exemplifies the best in teamwork and dedication
 mainpitch:
   title: Why Kaldi
   description: >

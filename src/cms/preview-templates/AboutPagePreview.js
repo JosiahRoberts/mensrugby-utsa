@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { AboutPageTemplate } from '../../templates/about-page'
+import { SimplePageTemplate } from '../../templates/simple-page'
 
 const AboutPagePreview = ({ entry, widgetFor }) => (
-  <AboutPageTemplate
+  <SimplePageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
   />
