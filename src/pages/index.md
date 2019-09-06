@@ -2,32 +2,62 @@
 templateKey: index-page
 title: UTSA Rugby
 image: /img/home-jumbotron.jpg
-heading: Join the club
+heading: A Tradition of Excellence
 subheading: UTSA Rugby exemplifies the best in teamwork and dedication
 mainpitch:
-  title: Come see us play
-  description: >-
-    Game admission is free. Home games are hosted at the practice football field
-    on the UTSA campus. Park in the Barshop lot.
+  title: Why Kaldi
+  description: >
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just taste good, it should do good too. We source all of our beans
+    directly from small scale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
-  Practice is hosted at  the rec fields on Tuesdays and Thursdays from 5:00pm to
-  8:00pm. No experience is required, just a willingness to learn! Check out our
-  contact page for more information.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
-    - image: /img/img_5191.jpg
-      text: >-
-        Game times are set close to the date of the game, so follow our social
-        media for updates!
-  heading: A short history of UTSA Rugby
-  description: >-
-    The UTSA Rugby club was founded in 2011. We have been a competitive side
-    since the beginning, representing Texas twice at the national level in our
-    short history.
+    - image: /img/coffee.png
+      text: >
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/coffee-gear.png
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
+    - image: /img/tutorials.png
+      text: >
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
+    - image: /img/meeting-space.png
+      text: >
+        We believe that good coffee has the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow coffee lovers and learn about
+        coffee making techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
-  heading: '   '
-  description: |+
-
+  heading: Great coffee with no compromises
+  description: >
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -38,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
