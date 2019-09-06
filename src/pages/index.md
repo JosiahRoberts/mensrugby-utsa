@@ -5,9 +5,17 @@ image: /img/home-jumbotron.jpg
 heading: A Tradition of Excellence
 subheading: UTSA Rugby exemplifies the best in teamwork and dedication
 mainpitch:
-  title: ' The Best'
-  description: |
-    I wrote this because I had to
+  title: The Road Runner Rugby Futball Club
+  description: >-
+    Purpose of the RRRFC is to form an organization of students, faculty and
+    staff members of UTSA who are interested in playing and learning the game of
+    rugby.  As an organization we want to afford UTSA students the opportunity
+    to join a collegiate organization.  We want to gain the recognition of The
+    University of Texas at San Antonio.  Overall, our goal is to provide a
+    learning experience for students looking to further their skills and
+    knowledge of rugby in a competitive environment.  Our environment teaches
+    leadership, discipline, teamwork, and a drive to develop Men and Women to
+    achieve there dreams and goals in a well rounded collegiate organization.  
 description: UTSA Rugby has won multiple conference championships.
 intro:
   blurbs:
